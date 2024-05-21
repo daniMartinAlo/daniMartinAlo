@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Daniel Martin
+- 👀 I’m interested in programming in different languages and learning as much as I can to become a proficient full-stack developer.
+- 🌱 I’m currently learning Python through an IBM course and practicing on my own.
+- 💞️ I’m looking for a job as a developer because, despite having one year of experience as a frontend developer in a company, I am finding it a bit challenging to secure a new opportunity.
+- 📫 How to reach me: via my email danielmartinalonso90@gmail.com or through my LinkedIn [Daniel Martin Alonso](https://www.linkedin.com/in/daniel-martin-alonso-408076226)
+- ⚡ If you like what you see, feel free to reach out and let's talk!
